@@ -1,0 +1,4 @@
+C:/Users/admin/OneDrive/Documents/MyC++/pratices/MultiServer/build/CMakeFiles/MultiServer.dir
+C:/Users/admin/OneDrive/Documents/MyC++/pratices/MultiServer/build/CMakeFiles/edit_cache.dir
+C:/Users/admin/OneDrive/Documents/MyC++/pratices/MultiServer/build/CMakeFiles/rebuild_cache.dir
+C:/Users/admin/OneDrive/Documents/MyC++/pratices/MultiServer/build/CMakeFiles/MultiServer_autogen.dir

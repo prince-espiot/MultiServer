@@ -1,0 +1,22 @@
+[
+{
+  "directory": "C:/Users/admin/OneDrive/Documents/MyC++/pratices/MultiServer/build",
+  "command": "C:\\Qt\\Tools\\mingw900_64\\bin\\x86_64-w64-mingw32-g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_NETWORK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/MultiServer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MultiServer.dir\\MultiServer_autogen\\mocs_compilation.cpp.obj -c C:\\Users\\admin\\OneDrive\\Documents\\MyC++\\pratices\\MultiServer\\build\\MultiServer_autogen\\mocs_compilation.cpp",
+  "file": "C:/Users/admin/OneDrive/Documents/MyC++/pratices/MultiServer/build/MultiServer_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "C:/Users/admin/OneDrive/Documents/MyC++/pratices/MultiServer/build",
+  "command": "C:\\Qt\\Tools\\mingw900_64\\bin\\x86_64-w64-mingw32-g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_NETWORK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/MultiServer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MultiServer.dir\\main.cpp.obj -c C:\\Users\\admin\\OneDrive\\Documents\\MyC++\\pratices\\MultiServer\\main.cpp",
+  "file": "C:/Users/admin/OneDrive/Documents/MyC++/pratices/MultiServer/main.cpp"
+},
+{
+  "directory": "C:/Users/admin/OneDrive/Documents/MyC++/pratices/MultiServer/build",
+  "command": "C:\\Qt\\Tools\\mingw900_64\\bin\\x86_64-w64-mingw32-g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_NETWORK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/MultiServer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MultiServer.dir\\myserver.cpp.obj -c C:\\Users\\admin\\OneDrive\\Documents\\MyC++\\pratices\\MultiServer\\myserver.cpp",
+  "file": "C:/Users/admin/OneDrive/Documents/MyC++/pratices/MultiServer/myserver.cpp"
+},
+{
+  "directory": "C:/Users/admin/OneDrive/Documents/MyC++/pratices/MultiServer/build",
+  "command": "C:\\Qt\\Tools\\mingw900_64\\bin\\x86_64-w64-mingw32-g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_NETWORK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/MultiServer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MultiServer.dir\\mythread.cpp.obj -c C:\\Users\\admin\\OneDrive\\Documents\\MyC++\\pratices\\MultiServer\\mythread.cpp",
+  "file": "C:/Users/admin/OneDrive/Documents/MyC++/pratices/MultiServer/mythread.cpp"
+}
+]
