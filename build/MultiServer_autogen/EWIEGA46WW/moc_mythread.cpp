@@ -34,12 +34,12 @@ QT_MOC_LITERAL(9, 13), // "errorOccurred"
 QT_MOC_LITERAL(23, 0), // ""
 QT_MOC_LITERAL(24, 23), // "QTcpSocket::SocketError"
 QT_MOC_LITERAL(48, 11), // "socketError"
-QT_MOC_LITERAL(60, 9), // "readyRead"
+QT_MOC_LITERAL(60, 9), // "connected"
 QT_MOC_LITERAL(70, 12) // "disconnected"
 
     },
     "MyThread\0errorOccurred\0\0QTcpSocket::SocketError\0"
-    "socketError\0readyRead\0disconnected"
+    "socketError\0connected\0disconnected"
 };
 #undef QT_MOC_LITERAL
 
@@ -80,7 +80,7 @@ void MyThread::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, vo
         (void)_t;
         switch (_id) {
         case 0: _t->errorOccurred((*reinterpret_cast< QTcpSocket::SocketError(*)>(_a[1]))); break;
-        case 1: _t->readyRead(); break;
+        case 1: _t->connected(); break;
         case 2: _t->disconnected(); break;
         default: ;
         }

@@ -30,7 +30,7 @@ void MyThread::readyRead()
 
 void MyThread::disconnected()
 {
-       qDebug()<< socketDescriptor << " Disconnected...: ";
+      qDebug()<< socketDescriptor << " Disconnected...: ";
       socket->deleteLater();
       exit();
 }

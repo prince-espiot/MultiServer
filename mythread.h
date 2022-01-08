@@ -2,6 +2,7 @@
 #define MYTHREAD_H
 
 #include <QThread>
+#include <QIODevice>
 #include <QObject>
 #include <QTcpSocket>
 #include <QDebug>
